@@ -79,8 +79,8 @@ You might encounter some bugs while using this app. You are more than welcome to
 
 ## :rocket: Follow Me
 
-[![GitHub followers](https://img.shields.io/github/followers/srinidh-007)](https://github.com/srinidh-007 "Follow Me") &nvsp
-[![Discord]  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/5Z9DPNG5)]
+[![GitHub followers](https://img.shields.io/github/followers/srinidh-007)](https://github.com/srinidh-007 "Follow Me") 
+![Discord]  [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/5Z9DPNG5)
   
 
 
