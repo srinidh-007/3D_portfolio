@@ -73,7 +73,9 @@ VITE_APP_EMAILJS_RECIEVER=your@email.com
 
 You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
 
+## Buy Me a Coffee 🍺
 
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/srinidh "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
